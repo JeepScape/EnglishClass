@@ -1,0 +1,1377 @@
+{
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2"
+  ],
+  "skills": [
+    "Grammar",
+    "Vocabulary",
+    "Reading",
+    "Listening",
+    "Writing"
+  ],
+  "lessons": [
+    {
+      "id": "a1-grammar-01",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Present Simple vs Present Continuous",
+      "explanation": [
+        "This is a placeholder lesson for A1 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "He ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "We ____ dinner now.",
+          "options": [
+            "eat",
+            "are eating",
+            "eats"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-02",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Past Simple (regular verbs)",
+      "explanation": [
+        "This is a placeholder lesson for A1 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Yesterday I ____ football.",
+          "options": [
+            "play",
+            "played",
+            "playing"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She ____ a letter last night.",
+          "options": [
+            "write",
+            "wrote",
+            "writes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-01",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Daily routines",
+      "explanation": [
+        "This is a placeholder lesson for A1 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose a morning action:",
+          "options": [
+            "brush teeth",
+            "eat dinner",
+            "go to bed"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Choose an evening action:",
+          "options": [
+            "have lunch",
+            "wake up",
+            "go to bed"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-02",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "At the supermarket",
+      "explanation": [
+        "This is a placeholder lesson for A1 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a dairy product?",
+          "options": [
+            "bread",
+            "milk",
+            "carrot"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "apple",
+            "carrot",
+            "beef"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-01",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "Short text: Anna's day",
+      "explanation": [
+        "This is a placeholder lesson for A1 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Anna lives in a ____.",
+          "options": [
+            "village",
+            "city",
+            "farm"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She takes the bus to ____.",
+          "options": [
+            "school",
+            "work",
+            "the park"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-02",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "Email to a friend",
+      "explanation": [
+        "This is a placeholder lesson for A1 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "The email is about ____.",
+          "options": [
+            "holiday plans",
+            "a job offer",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They will travel next ____.",
+          "options": [
+            "week",
+            "year",
+            "month"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-01",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "Listening: at the caf\u00e9 (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for A1 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "They sit ____ the window.",
+          "options": [
+            "near",
+            "behind",
+            "under"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-02",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "Listening: directions (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for A1 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Turn ____ at the bank.",
+          "options": [
+            "left",
+            "right",
+            "around"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "The library is ____ the corner.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-01",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Writing: a short note",
+      "explanation": [
+        "This is a placeholder lesson for A1 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "A short note should be ____.",
+          "options": [
+            "very long",
+            "clear and short",
+            "full of slang"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Include a polite ____.",
+          "options": [
+            "greeting and closing",
+            "argument",
+            "menu"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-02",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Writing: describing your day",
+      "explanation": [
+        "This is a placeholder lesson for A1 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Use ____ to show time order.",
+          "options": [
+            "connectors",
+            "random words",
+            "numbers only"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Keep sentences ____.",
+          "options": [
+            "very complex",
+            "clear and simple",
+            "unfinished"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-01",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Present Simple vs Present Continuous",
+      "explanation": [
+        "This is a placeholder lesson for A2 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "He ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "We ____ dinner now.",
+          "options": [
+            "eat",
+            "are eating",
+            "eats"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-02",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Past Simple (regular verbs)",
+      "explanation": [
+        "This is a placeholder lesson for A2 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Yesterday I ____ football.",
+          "options": [
+            "play",
+            "played",
+            "playing"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She ____ a letter last night.",
+          "options": [
+            "write",
+            "wrote",
+            "writes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-01",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Daily routines",
+      "explanation": [
+        "This is a placeholder lesson for A2 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose a morning action:",
+          "options": [
+            "brush teeth",
+            "eat dinner",
+            "go to bed"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Choose an evening action:",
+          "options": [
+            "have lunch",
+            "wake up",
+            "go to bed"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-02",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "At the supermarket",
+      "explanation": [
+        "This is a placeholder lesson for A2 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a dairy product?",
+          "options": [
+            "bread",
+            "milk",
+            "carrot"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "apple",
+            "carrot",
+            "beef"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-01",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "Short text: Anna's day",
+      "explanation": [
+        "This is a placeholder lesson for A2 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Anna lives in a ____.",
+          "options": [
+            "village",
+            "city",
+            "farm"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She takes the bus to ____.",
+          "options": [
+            "school",
+            "work",
+            "the park"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-02",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "Email to a friend",
+      "explanation": [
+        "This is a placeholder lesson for A2 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "The email is about ____.",
+          "options": [
+            "holiday plans",
+            "a job offer",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They will travel next ____.",
+          "options": [
+            "week",
+            "year",
+            "month"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-01",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Listening: at the caf\u00e9 (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for A2 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "They sit ____ the window.",
+          "options": [
+            "near",
+            "behind",
+            "under"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-02",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Listening: directions (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for A2 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Turn ____ at the bank.",
+          "options": [
+            "left",
+            "right",
+            "around"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "The library is ____ the corner.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-01",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Writing: a short note",
+      "explanation": [
+        "This is a placeholder lesson for A2 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "A short note should be ____.",
+          "options": [
+            "very long",
+            "clear and short",
+            "full of slang"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Include a polite ____.",
+          "options": [
+            "greeting and closing",
+            "argument",
+            "menu"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-02",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Writing: describing your day",
+      "explanation": [
+        "This is a placeholder lesson for A2 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Use ____ to show time order.",
+          "options": [
+            "connectors",
+            "random words",
+            "numbers only"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Keep sentences ____.",
+          "options": [
+            "very complex",
+            "clear and simple",
+            "unfinished"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-01",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Present Simple vs Present Continuous",
+      "explanation": [
+        "This is a placeholder lesson for B1 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "He ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "We ____ dinner now.",
+          "options": [
+            "eat",
+            "are eating",
+            "eats"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-02",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Past Simple (regular verbs)",
+      "explanation": [
+        "This is a placeholder lesson for B1 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Yesterday I ____ football.",
+          "options": [
+            "play",
+            "played",
+            "playing"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She ____ a letter last night.",
+          "options": [
+            "write",
+            "wrote",
+            "writes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-01",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Daily routines",
+      "explanation": [
+        "This is a placeholder lesson for B1 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose a morning action:",
+          "options": [
+            "brush teeth",
+            "eat dinner",
+            "go to bed"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Choose an evening action:",
+          "options": [
+            "have lunch",
+            "wake up",
+            "go to bed"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-02",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "At the supermarket",
+      "explanation": [
+        "This is a placeholder lesson for B1 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a dairy product?",
+          "options": [
+            "bread",
+            "milk",
+            "carrot"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "apple",
+            "carrot",
+            "beef"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-01",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Short text: Anna's day",
+      "explanation": [
+        "This is a placeholder lesson for B1 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Anna lives in a ____.",
+          "options": [
+            "village",
+            "city",
+            "farm"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She takes the bus to ____.",
+          "options": [
+            "school",
+            "work",
+            "the park"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-02",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Email to a friend",
+      "explanation": [
+        "This is a placeholder lesson for B1 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "The email is about ____.",
+          "options": [
+            "holiday plans",
+            "a job offer",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They will travel next ____.",
+          "options": [
+            "week",
+            "year",
+            "month"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-01",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Listening: at the caf\u00e9 (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for B1 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "They sit ____ the window.",
+          "options": [
+            "near",
+            "behind",
+            "under"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-02",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Listening: directions (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for B1 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Turn ____ at the bank.",
+          "options": [
+            "left",
+            "right",
+            "around"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "The library is ____ the corner.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-01",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Writing: a short note",
+      "explanation": [
+        "This is a placeholder lesson for B1 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "A short note should be ____.",
+          "options": [
+            "very long",
+            "clear and short",
+            "full of slang"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Include a polite ____.",
+          "options": [
+            "greeting and closing",
+            "argument",
+            "menu"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-02",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Writing: describing your day",
+      "explanation": [
+        "This is a placeholder lesson for B1 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Use ____ to show time order.",
+          "options": [
+            "connectors",
+            "random words",
+            "numbers only"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Keep sentences ____.",
+          "options": [
+            "very complex",
+            "clear and simple",
+            "unfinished"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-01",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Present Simple vs Present Continuous",
+      "explanation": [
+        "This is a placeholder lesson for B2 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "He ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "We ____ dinner now.",
+          "options": [
+            "eat",
+            "are eating",
+            "eats"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-02",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Past Simple (regular verbs)",
+      "explanation": [
+        "This is a placeholder lesson for B2 Grammar.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Yesterday I ____ football.",
+          "options": [
+            "play",
+            "played",
+            "playing"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She ____ a letter last night.",
+          "options": [
+            "write",
+            "wrote",
+            "writes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-01",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Daily routines",
+      "explanation": [
+        "This is a placeholder lesson for B2 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose a morning action:",
+          "options": [
+            "brush teeth",
+            "eat dinner",
+            "go to bed"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Choose an evening action:",
+          "options": [
+            "have lunch",
+            "wake up",
+            "go to bed"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-02",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "At the supermarket",
+      "explanation": [
+        "This is a placeholder lesson for B2 Vocabulary.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a dairy product?",
+          "options": [
+            "bread",
+            "milk",
+            "carrot"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "apple",
+            "carrot",
+            "beef"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-01",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Short text: Anna's day",
+      "explanation": [
+        "This is a placeholder lesson for B2 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Anna lives in a ____.",
+          "options": [
+            "village",
+            "city",
+            "farm"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "She takes the bus to ____.",
+          "options": [
+            "school",
+            "work",
+            "the park"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-02",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Email to a friend",
+      "explanation": [
+        "This is a placeholder lesson for B2 Reading.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "The email is about ____.",
+          "options": [
+            "holiday plans",
+            "a job offer",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They will travel next ____.",
+          "options": [
+            "week",
+            "year",
+            "month"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-01",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Listening: at the caf\u00e9 (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for B2 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "They sit ____ the window.",
+          "options": [
+            "near",
+            "behind",
+            "under"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-02",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Listening: directions (scripted)",
+      "explanation": [
+        "This is a placeholder lesson for B2 Listening.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Turn ____ at the bank.",
+          "options": [
+            "left",
+            "right",
+            "around"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "The library is ____ the corner.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-01",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Writing: a short note",
+      "explanation": [
+        "This is a placeholder lesson for B2 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "A short note should be ____.",
+          "options": [
+            "very long",
+            "clear and short",
+            "full of slang"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Include a polite ____.",
+          "options": [
+            "greeting and closing",
+            "argument",
+            "menu"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-02",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Writing: describing your day",
+      "explanation": [
+        "This is a placeholder lesson for B2 Writing.",
+        "Use it to demonstrate layout and interaction for screen-shared classes."
+      ],
+      "examples": [
+        "Example sentence 1.",
+        "Example sentence 2."
+      ],
+      "quiz": [
+        {
+          "question": "Use ____ to show time order.",
+          "options": [
+            "connectors",
+            "random words",
+            "numbers only"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Keep sentences ____.",
+          "options": [
+            "very complex",
+            "clear and simple",
+            "unfinished"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Homework • Tania's English Class</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>Tania's English Class</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="level-test.html">Level Test</a>
+  <a href="homework.html">Homework</a>
+  <a href="teacher.html">Teacher</a>
+</nav>
+  <div class="container">
+    <div class="card" style="margin-bottom:1rem;">
+      <h2 class="section-title">Homework portal</h2>
+      <p>Enter the 4-letter code from your teacher to begin. There are <strong><span id="codes-count">0</span></strong> active codes.</p>
+      <div style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+        <input id="code-input" type="text" maxlength="4" placeholder="e.g. Q7LK" style="max-width:140px; text-transform:uppercase;">
+        <button id="enter-code" class="button">Enter</button>
+      </div>
+      <p id="code-status" class="small"></p>
+    </div>
+    <div id="hw-quiz-wrap" class="card" style="display:none;">
+      <h3 class="section-title">Your homework</h3>
+      <div id="hw-quiz" class="quiz"></div>
+      <button id="submit-hw" class="button" style="margin-top:0.5rem;">Submit</button>
+    </div>
+    <div id="token-wrap" class="card" style="display:none; margin-top:1rem;">
+      <h3 class="section-title">Send this result to your teacher</h3>
+      <p class="small">Copy the token below and send it to your teacher (paste into chat or email).</p>
+      <textarea id="result-token" rows="2"></textarea>
+      <button id="copy-token" class="button" style="margin-top:0.5rem;">Copy token</button>
+    </div>
+  </div>
+  <footer>© 2025 Tania's English Class</footer>
+  <script src="js/quiz.js"></script>
+  <script src="js/homework.js"></script>
+</body>
+</html>

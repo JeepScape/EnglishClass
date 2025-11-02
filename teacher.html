@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teacher • Tania's English Class</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>Tania's English Class</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="level-test.html">Level Test</a>
+  <a href="homework.html">Homework</a>
+  <a href="teacher.html">Teacher</a>
+</nav>
+  <div class="container">
+    <div class="card" style="margin-bottom:1rem;">
+      <h2 class="section-title">Teacher dashboard</h2>
+      <p class="small">Assign a student name to each code. When students finish homework, they will send you a <em>result token</em>. Paste it below to mark completion. Data is stored locally on your device (no server).</p>
+      <div style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-top:0.5rem;">
+        <input id="token-input" type="text" placeholder="Paste result token here" style="flex:1 1 380px;">
+        <button id="apply-token" class="button">Apply token</button>
+        <button id="export-csv" class="button secondary">Export CSV</button>
+        <button id="reset-local" class="button ghost">Reset local data</button>
+      </div>
+    </div>
+    <div class="card">
+      <table>
+        <thead>
+          <tr><th>Code</th><th>Assigned to</th><th>Status</th><th>Last update</th></tr>
+        </thead>
+        <tbody id="codes-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+  <footer>© 2025 Tania's English Class</footer>
+  <script src="js/teacher.js"></script>
+</body>
+</html>

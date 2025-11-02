@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tania's English Class</title>
+  <title>Lesson • Tania's English Class</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -17,17 +17,20 @@
 </nav>
   <div class="container">
     <div class="card" style="margin-bottom:1rem;">
-      <p>Light, clean lessons for screen-sharing with remote students. Use the cards below to jump into examples for each level and skill.</p>
-      <a class="button secondary" href="level-test.html">Try the Level Test</a>
-      <a class="button ghost" href="homework.html">Homework portal</a>
-      <a class="button" href="teacher.html">Teacher dashboard</a>
+      <span id="lesson-meta" class="level-pill"></span>
+      <h2 id="lesson-title" class="section-title"></h2>
+      <div id="explanation"></div>
     </div>
-    <h2 class="section-title">Lessons</h2>
-    <div id="lessons-grid" class="grid"></div>
+    <div class="card">
+      <h3 class="section-title">Quiz</h3>
+      <div id="quiz" class="quiz"></div>
+      <button id="submit-quiz" class="button" style="margin-top:0.5rem;">Check answers</button>
+      <p id="score" class="small"></p>
+    </div>
   </div>
   <footer>© 2025 Tania's English Class</footer>
   <script src="js/quiz.js"></script>
   <script src="js/lessons.js"></script>
-  <script>renderHome();</script>
+  <script>renderLesson();</script>
 </body>
 </html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Level Test • Tania's English Class</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>Tania's English Class</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="level-test.html">Level Test</a>
+  <a href="homework.html">Homework</a>
+  <a href="teacher.html">Teacher</a>
+</nav>
+  <div class="container">
+    <div class="card" style="margin-bottom:1rem;">
+      <h2 class="section-title">Quick Level Test</h2>
+      <p class="small">10 questions. Instant result for demo purposes.</p>
+    </div>
+    <div class="card">
+      <div id="lt-quiz" class="quiz"></div>
+      <button id="lt-submit" class="button" style="margin-top:0.5rem;">See my level</button>
+      <p id="lt-score" class="small"></p>
+    </div>
+  </div>
+  <footer>© 2025 Tania's English Class</footer>
+  <script src="js/quiz.js"></script>
+  <script>
+    const ltQuiz = [
+      {question:'He ____ to work every day.', options:['go','goes','is going'], answer:1},
+      {question:'I ____ dinner now.', options:['eat','am eating','eats'], answer:1},
+      {question:'Yesterday they ____ a film.', options:['watch','watched','watching'], answer:1},
+      {question:'Choose a fruit:', options:['milk','apple','bread'], answer:1},
+      {question:'We will travel next ____.', options:['week','year','century'], answer:0},
+      {question:'Turn ____ at the bank.', options:['left','over','under'], answer:0},
+      {question:'The café is ____ the corner.', options:['on','at','in'], answer:2},
+      {question:'A short note should be ____.', options:['long','unclear','concise'], answer:2},
+      {question:'Use ____ to show time order.', options:['connectors','random words','nothing'], answer:0},
+      {question:'She ____ to school on Mondays.', options:['go','goes','is going'], answer:1},
+    ];
+    const quizC = document.getElementById('lt-quiz');
+    renderQuiz(quizC, ltQuiz);
+    document.getElementById('lt-submit').addEventListener('click', () => { 
+      const s = scoreQuiz(quizC);
+      const pct = (s.correct / s.total) * 100;
+      let level = 'A1';
+      if(pct >= 80) level = 'B2';
+      else if(pct >= 60) level = 'B1';
+      else if(pct >= 40) level = 'A2';
+      document.getElementById('lt-score').textContent = `Score: ${s.correct}/${s.total} → Suggested level: ${level}`;
+    });
+  </script>
+</body>
+</html>
