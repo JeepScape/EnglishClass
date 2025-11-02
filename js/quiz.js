@@ -25,7 +25,6 @@ function renderQuiz(container, quiz) {
     });
   });
 }
-
 function scoreQuiz(container){
   const chosen = container.querySelectorAll('.options button[disabled]');
   let correct = 0;

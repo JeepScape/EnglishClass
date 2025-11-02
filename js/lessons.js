@@ -11,32 +11,51 @@ function qs(name){
 function lessonLink(id){
   return `lesson.html?id=${encodeURIComponent(id)}`;
 }
+function lessonCard(l){
+  return `<li><a href="${lessonLink(l.id)}">${l.title}</a></li>`;
+}
 async function renderHome(){
   const data = await fetch('data/lessons.json').then(r=>r.json());
   const levels = data.levels;
   const skills = data.skills;
   const lessons = data.lessons;
 
-  const lessonsByLevelSkill = {};
-  lessons.forEach(l => {
-    const key = l.level + '|' + l.skill;
-    (lessonsByLevelSkill[key] = lessonsByLevelSkill[key] || []).push(l);
-  });
+  const levelSel = document.getElementById('level-filter');
+  const skillSel = document.getElementById('skill-filter');
+  const qInput = document.getElementById('q');
+  levels.forEach(L => levelSel.append(new Option(L, L)));
+  skills.forEach(S => skillSel.append(new Option(S, S)));
 
-  const lessonsSection = document.getElementById('lessons-grid');
-  lessonsSection.innerHTML = levels.map(level => `
-    <div class="card">
-      <span class="level-pill">${level}</span>
-      ${skills.map(skill => {
-        const list = lessonsByLevelSkill[level+'|'+skill] || [];
-        const items = list.slice(0,3).map(l => `<li><a href="${lessonLink(l.id)}">${l.title}</a></li>`).join('');
-        return `
-        <h3 class="section-title">${skill}</h3>
-        <ul class="list">${items || '<li class="small">Examples coming soon</li>'}</ul>`;
-      }).join('')}
-    </div>
-  `).join('');
+  function apply(){
+    const L = levelSel.value;
+    const S = skillSel.value;
+    const Q = (qInput.value || '').toLowerCase();
+    const filtered = lessons.filter(x =>
+      (!L || x.level === L) &&
+      (!S || x.skill === S) &&
+      (!Q || (x.title.toLowerCase().includes(Q) || x.skill.toLowerCase().includes(Q)))
+    );
+    const groups = {};
+    filtered.forEach(l => {
+      const key = l.level+'|'+l.skill;
+      (groups[key] = groups[key] || []).push(l);
+    });
+    const grid = document.getElementById('lessons-grid');
+    grid.innerHTML = Object.keys(groups).sort().map(k => {
+      const [L2,S2] = k.split('|');
+      const items = groups[k].slice(0,12).map(lessonCard).join('');
+      return `<div class="card"><span class="level-pill">${L2}</span>
+        <h3 class="section-title">${S2}</h3>
+        <ul class="list">${items}</ul></div>`;
+    }).join('') || '<p class="small">No lessons match the filters.</p>';
+  }
+
+  levelSel.addEventListener('change', apply);
+  skillSel.addEventListener('change', apply);
+  qInput.addEventListener('input', apply);
+  apply();
 }
+
 async function renderLesson(){
   const id = qs('id');
   const data = await fetch('data/lessons.json').then(r=>r.json());
@@ -44,8 +63,9 @@ async function renderLesson(){
   document.getElementById('lesson-title').textContent = lesson.title;
   document.getElementById('lesson-meta').textContent = `${lesson.level} · ${lesson.skill}`;
 
+  const ext = lesson.external_url ? `<p class="small">Reference link: <a href="${lesson.external_url}" target="_blank" rel="noopener">Open external resource</a></p>` : '';
   const expl = document.getElementById('explanation');
-  expl.innerHTML = lesson.explanation.map(p => `<p>${p}</p>`).join('') + 
+  expl.innerHTML = lesson.explanation.map(p => `<p>${p}</p>`).join('') + ext +
     (lesson.examples?.length ? `<div class="card"><strong>Examples</strong><ul class="list">${lesson.examples.map(e=>`<li>${e}</li>`).join('')}</ul></div>` : '');
 
   const qc = document.getElementById('quiz');

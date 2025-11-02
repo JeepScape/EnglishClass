@@ -17,18 +17,19 @@
       "id": "a1-grammar-01",
       "level": "A1",
       "skill": "Grammar",
-      "title": "Present Simple vs Present Continuous",
+      "title": "To be",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Grammar: To be.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "He ____ to school on Mondays.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
             "go",
             "goes",
@@ -37,11 +38,11 @@
           "answer": 1
         },
         {
-          "question": "We ____ dinner now.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "eat",
-            "are eating",
-            "eats"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -51,31 +52,312 @@
       "id": "a1-grammar-02",
       "level": "A1",
       "skill": "Grammar",
-      "title": "Past Simple (regular verbs)",
+      "title": "Present Simple",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Grammar: Present Simple.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Yesterday I ____ football.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
-            "play",
-            "played",
-            "playing"
+            "go",
+            "goes",
+            "is going"
           ],
           "answer": 1
         },
         {
-          "question": "She ____ a letter last night.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "write",
-            "wrote",
-            "writes"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-03",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Have got",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Have got.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-04",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "There is/There are",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: There is/There are.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-05",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Articles a/an/the",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Articles a/an/the.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-06",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Prepositions of time and place",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Prepositions of time and place.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-07",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Present Continuous (intro)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Present Continuous (intro).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-08",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Imperatives",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Imperatives.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-09",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Can/Can't",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Can/Can't.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar-10",
+      "level": "A1",
+      "skill": "Grammar",
+      "title": "Question forms",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Grammar: Question forms.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -85,33 +367,34 @@
       "id": "a1-vocabulary-01",
       "level": "A1",
       "skill": "Vocabulary",
-      "title": "Daily routines",
+      "title": "Personal information",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Vocabulary: Personal information.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Choose a morning action:",
+          "question": "Which is a fruit?",
           "options": [
-            "brush teeth",
-            "eat dinner",
-            "go to bed"
-          ],
-          "answer": 0
-        },
-        {
-          "question": "Choose an evening action:",
-          "options": [
-            "have lunch",
-            "wake up",
-            "go to bed"
+            "milk",
+            "bread",
+            "apple"
           ],
           "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -119,31 +402,312 @@
       "id": "a1-vocabulary-02",
       "level": "A1",
       "skill": "Vocabulary",
-      "title": "At the supermarket",
+      "title": "Family",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Vocabulary: Family.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Which is a dairy product?",
+          "question": "Which is a fruit?",
           "options": [
-            "bread",
             "milk",
-            "carrot"
+            "bread",
+            "apple"
           ],
-          "answer": 1
+          "answer": 2
         },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-03",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Daily routines",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Daily routines.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
         {
           "question": "Which is a fruit?",
           "options": [
-            "apple",
-            "carrot",
-            "beef"
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-04",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Food and drink",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Food and drink.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-05",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Places in town",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Places in town.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-06",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Clothes and colours",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Clothes and colours.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-07",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Jobs",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Jobs.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-08",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Transport",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Transport.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-09",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "House and furniture",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: House and furniture.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary-10",
+      "level": "A1",
+      "skill": "Vocabulary",
+      "title": "Hobbies",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Vocabulary: Hobbies.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
           ],
           "answer": 0
         }
@@ -153,31 +717,32 @@
       "id": "a1-reading-01",
       "level": "A1",
       "skill": "Reading",
-      "title": "Short text: Anna's day",
+      "title": "A postcard home",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Reading: A postcard home.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Anna lives in a ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "village",
-            "city",
-            "farm"
+            "a person",
+            "a place",
+            "a recipe"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "She takes the bus to ____.",
+          "question": "They travel by ____.",
           "options": [
-            "school",
-            "work",
-            "the park"
+            "car",
+            "bus",
+            "boat"
           ],
           "answer": 1
         }
@@ -187,33 +752,314 @@
       "id": "a1-reading-02",
       "level": "A1",
       "skill": "Reading",
-      "title": "Email to a friend",
+      "title": "My daily routine",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Reading: My daily routine.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "The email is about ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "holiday plans",
-            "a job offer",
+            "a person",
+            "a place",
             "a recipe"
           ],
           "answer": 0
         },
         {
-          "question": "They will travel next ____.",
+          "question": "They travel by ____.",
           "options": [
-            "week",
-            "year",
-            "month"
+            "car",
+            "bus",
+            "boat"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-03",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "A visit to the zoo",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: A visit to the zoo.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-04",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "At the weekend",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: At the weekend.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-05",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "An email to a friend",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: An email to a friend.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-06",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "A short biography",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: A short biography.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-07",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "In the city",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: In the city.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-08",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "My favourite meal",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: My favourite meal.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-09",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "A simple notice",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: A simple notice.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-reading-10",
+      "level": "A1",
+      "skill": "Reading",
+      "title": "A classroom poster",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Reading: A classroom poster.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -221,16 +1067,26 @@
       "id": "a1-listening-01",
       "level": "A1",
       "skill": "Listening",
-      "title": "Listening: at the caf\u00e9 (scripted)",
+      "title": "At the caf\u00e9 (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Listening: At the caf\u00e9 (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
         {
           "question": "They order ____.",
           "options": [
@@ -239,15 +1095,6 @@
             "juice"
           ],
           "answer": 1
-        },
-        {
-          "question": "They sit ____ the window.",
-          "options": [
-            "near",
-            "behind",
-            "under"
-          ],
-          "answer": 0
         }
       ]
     },
@@ -255,33 +1102,314 @@
       "id": "a1-listening-02",
       "level": "A1",
       "skill": "Listening",
-      "title": "Listening: directions (scripted)",
+      "title": "Introducing yourself (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Listening: Introducing yourself (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Turn ____ at the bank.",
+          "question": "They are in a ____.",
           "options": [
-            "left",
-            "right",
-            "around"
+            "caf\u00e9",
+            "bank",
+            "school"
           ],
           "answer": 0
         },
         {
-          "question": "The library is ____ the corner.",
+          "question": "They order ____.",
           "options": [
-            "on",
-            "at",
-            "in"
+            "tea",
+            "coffee",
+            "juice"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-03",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "Directions in town (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: Directions in town (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-04",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "At the market (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: At the market (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-05",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "On the phone (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: On the phone (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-06",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "At the bus stop (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: At the bus stop (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-07",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "In a shop (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: In a shop (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-08",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "At the doctor (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: At the doctor (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-09",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "Weather report (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: Weather report (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a1-listening-10",
+      "level": "A1",
+      "skill": "Listening",
+      "title": "Making plans (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Listening: Making plans (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -289,31 +1417,32 @@
       "id": "a1-writing-01",
       "level": "A1",
       "skill": "Writing",
-      "title": "Writing: a short note",
+      "title": "Writing a short note",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Writing: Writing a short note.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "A short note should be ____.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "very long",
-            "clear and short",
-            "full of slang"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "Include a polite ____.",
+          "question": "A polite email should include ____.",
           "options": [
             "greeting and closing",
-            "argument",
-            "menu"
+            "slang only",
+            "no punctuation"
           ],
           "answer": 0
         }
@@ -323,33 +1452,314 @@
       "id": "a1-writing-02",
       "level": "A1",
       "skill": "Writing",
-      "title": "Writing: describing your day",
+      "title": "Writing a simple email",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A1 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A1 Writing: Writing a simple email.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Use ____ to show time order.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "connectors",
-            "random words",
-            "numbers only"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
           "answer": 0
         },
         {
-          "question": "Keep sentences ____.",
+          "question": "A polite email should include ____.",
           "options": [
-            "very complex",
-            "clear and simple",
-            "unfinished"
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
           ],
-          "answer": 1
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-03",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Describing your family",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Describing your family.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-04",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Describing your home",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Describing your home.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-05",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Your daily routine",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Your daily routine.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-06",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Inviting a friend",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Inviting a friend.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-07",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Thank-you note",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Thank-you note.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-08",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Apology note",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Apology note.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-09",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Form filling",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Form filling.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a1-writing-10",
+      "level": "A1",
+      "skill": "Writing",
+      "title": "Describing a picture",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A1 Writing: Describing a picture.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -357,18 +1767,19 @@
       "id": "a2-grammar-01",
       "level": "A2",
       "skill": "Grammar",
-      "title": "Present Simple vs Present Continuous",
+      "title": "Past Simple (regular)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Grammar: Past Simple (regular).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "He ____ to school on Mondays.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
             "go",
             "goes",
@@ -377,11 +1788,11 @@
           "answer": 1
         },
         {
-          "question": "We ____ dinner now.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "eat",
-            "are eating",
-            "eats"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -391,31 +1802,312 @@
       "id": "a2-grammar-02",
       "level": "A2",
       "skill": "Grammar",
-      "title": "Past Simple (regular verbs)",
+      "title": "Past Simple (irregular)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Grammar: Past Simple (irregular).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Yesterday I ____ football.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
-            "play",
-            "played",
-            "playing"
+            "go",
+            "goes",
+            "is going"
           ],
           "answer": 1
         },
         {
-          "question": "She ____ a letter last night.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "write",
-            "wrote",
-            "writes"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-03",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Past Continuous (intro)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Past Continuous (intro).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-04",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Comparatives and Superlatives",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Comparatives and Superlatives.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-05",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Countable/Uncountable nouns",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Countable/Uncountable nouns.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-06",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Quantifiers (some/any/much/many)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Quantifiers (some/any/much/many).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-07",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Going to (plans)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Going to (plans).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-08",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Present Continuous (arrangements)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Present Continuous (arrangements).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-09",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Present Perfect (intro)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Present Perfect (intro).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar-10",
+      "level": "A2",
+      "skill": "Grammar",
+      "title": "Should/Have to",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Grammar: Should/Have to.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -425,33 +2117,34 @@
       "id": "a2-vocabulary-01",
       "level": "A2",
       "skill": "Vocabulary",
-      "title": "Daily routines",
+      "title": "Travel",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Vocabulary: Travel.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Choose a morning action:",
+          "question": "Which is a fruit?",
           "options": [
-            "brush teeth",
-            "eat dinner",
-            "go to bed"
-          ],
-          "answer": 0
-        },
-        {
-          "question": "Choose an evening action:",
-          "options": [
-            "have lunch",
-            "wake up",
-            "go to bed"
+            "milk",
+            "bread",
+            "apple"
           ],
           "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -459,31 +2152,312 @@
       "id": "a2-vocabulary-02",
       "level": "A2",
       "skill": "Vocabulary",
-      "title": "At the supermarket",
+      "title": "Health",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Vocabulary: Health.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Which is a dairy product?",
+          "question": "Which is a fruit?",
           "options": [
-            "bread",
             "milk",
-            "carrot"
+            "bread",
+            "apple"
           ],
-          "answer": 1
+          "answer": 2
         },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-03",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Shopping",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Shopping.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
         {
           "question": "Which is a fruit?",
           "options": [
-            "apple",
-            "carrot",
-            "beef"
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-04",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Holidays",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Holidays.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-05",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Technology basics",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Technology basics.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-06",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Free time",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Free time.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-07",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Weather",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Weather.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-08",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Workplaces",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Workplaces.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-09",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Education",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Education.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary-10",
+      "level": "A2",
+      "skill": "Vocabulary",
+      "title": "Nature",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Vocabulary: Nature.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
           ],
           "answer": 0
         }
@@ -493,31 +2467,32 @@
       "id": "a2-reading-01",
       "level": "A2",
       "skill": "Reading",
-      "title": "Short text: Anna's day",
+      "title": "Travel blog entry",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Reading: Travel blog entry.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Anna lives in a ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "village",
-            "city",
-            "farm"
+            "a person",
+            "a place",
+            "a recipe"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "She takes the bus to ____.",
+          "question": "They travel by ____.",
           "options": [
-            "school",
-            "work",
-            "the park"
+            "car",
+            "bus",
+            "boat"
           ],
           "answer": 1
         }
@@ -527,33 +2502,314 @@
       "id": "a2-reading-02",
       "level": "A2",
       "skill": "Reading",
-      "title": "Email to a friend",
+      "title": "A news snippet",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Reading: A news snippet.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "The email is about ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "holiday plans",
-            "a job offer",
+            "a person",
+            "a place",
             "a recipe"
           ],
           "answer": 0
         },
         {
-          "question": "They will travel next ____.",
+          "question": "They travel by ____.",
           "options": [
-            "week",
-            "year",
-            "month"
+            "car",
+            "bus",
+            "boat"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-03",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "A festival programme",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: A festival programme.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-04",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "A product review",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: A product review.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-05",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "A short article",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: A short article.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-06",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "A museum leaflet",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: A museum leaflet.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-07",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "A neighbourhood newsletter",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: A neighbourhood newsletter.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-08",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "Social media post",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: Social media post.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-09",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "Interview transcript (adapted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: Interview transcript (adapted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-reading-10",
+      "level": "A2",
+      "skill": "Reading",
+      "title": "A recipe",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Reading: A recipe.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -561,16 +2817,26 @@
       "id": "a2-listening-01",
       "level": "A2",
       "skill": "Listening",
-      "title": "Listening: at the caf\u00e9 (scripted)",
+      "title": "Booking a hotel (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Listening: Booking a hotel (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
         {
           "question": "They order ____.",
           "options": [
@@ -579,15 +2845,6 @@
             "juice"
           ],
           "answer": 1
-        },
-        {
-          "question": "They sit ____ the window.",
-          "options": [
-            "near",
-            "behind",
-            "under"
-          ],
-          "answer": 0
         }
       ]
     },
@@ -595,33 +2852,314 @@
       "id": "a2-listening-02",
       "level": "A2",
       "skill": "Listening",
-      "title": "Listening: directions (scripted)",
+      "title": "At the airport (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Listening: At the airport (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Turn ____ at the bank.",
+          "question": "They are in a ____.",
           "options": [
-            "left",
-            "right",
-            "around"
+            "caf\u00e9",
+            "bank",
+            "school"
           ],
           "answer": 0
         },
         {
-          "question": "The library is ____ the corner.",
+          "question": "They order ____.",
           "options": [
-            "on",
-            "at",
-            "in"
+            "tea",
+            "coffee",
+            "juice"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-03",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Restaurant orders (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Restaurant orders (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-04",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Asking for help (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Asking for help (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-05",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Train announcements (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Train announcements (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-06",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Tour guide (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Tour guide (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-07",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "A short interview (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: A short interview (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-08",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Weather forecast (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Weather forecast (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-09",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Arranging a meeting (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Arranging a meeting (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "a2-listening-10",
+      "level": "A2",
+      "skill": "Listening",
+      "title": "Cinema times (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Listening: Cinema times (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -629,31 +3167,32 @@
       "id": "a2-writing-01",
       "level": "A2",
       "skill": "Writing",
-      "title": "Writing: a short note",
+      "title": "Holiday postcard",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Writing: Holiday postcard.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "A short note should be ____.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "very long",
-            "clear and short",
-            "full of slang"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "Include a polite ____.",
+          "question": "A polite email should include ____.",
           "options": [
             "greeting and closing",
-            "argument",
-            "menu"
+            "slang only",
+            "no punctuation"
           ],
           "answer": 0
         }
@@ -663,33 +3202,314 @@
       "id": "a2-writing-02",
       "level": "A2",
       "skill": "Writing",
-      "title": "Writing: describing your day",
+      "title": "Complaint email (polite)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for A2 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for A2 Writing: Complaint email (polite).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Use ____ to show time order.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "connectors",
-            "random words",
-            "numbers only"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
           "answer": 0
         },
         {
-          "question": "Keep sentences ____.",
+          "question": "A polite email should include ____.",
           "options": [
-            "very complex",
-            "clear and simple",
-            "unfinished"
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
           ],
-          "answer": 1
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-03",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Describing a trip",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: Describing a trip.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-04",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Describing a problem",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: Describing a problem.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-05",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Inviting and replying",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: Inviting and replying.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-06",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "A short review",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: A short review.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-07",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Instructions",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: Instructions.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-08",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "An announcement",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: An announcement.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-09",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "A simple report",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: A simple report.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "a2-writing-10",
+      "level": "A2",
+      "skill": "Writing",
+      "title": "Describing a person",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for A2 Writing: Describing a person.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -697,18 +3517,19 @@
       "id": "b1-grammar-01",
       "level": "B1",
       "skill": "Grammar",
-      "title": "Present Simple vs Present Continuous",
+      "title": "Present Perfect vs Past Simple",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Grammar: Present Perfect vs Past Simple.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "He ____ to school on Mondays.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
             "go",
             "goes",
@@ -717,11 +3538,11 @@
           "answer": 1
         },
         {
-          "question": "We ____ dinner now.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "eat",
-            "are eating",
-            "eats"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -731,31 +3552,312 @@
       "id": "b1-grammar-02",
       "level": "B1",
       "skill": "Grammar",
-      "title": "Past Simple (regular verbs)",
+      "title": "First Conditional",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Grammar: First Conditional.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Yesterday I ____ football.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
-            "play",
-            "played",
-            "playing"
+            "go",
+            "goes",
+            "is going"
           ],
           "answer": 1
         },
         {
-          "question": "She ____ a letter last night.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "write",
-            "wrote",
-            "writes"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-03",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Second Conditional (intro)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Second Conditional (intro).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-04",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Relative Clauses (defining)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Relative Clauses (defining).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-05",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Reported Speech (intro)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Reported Speech (intro).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-06",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Modals of obligation",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Modals of obligation.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-07",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Passive voice (present/past)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Passive voice (present/past).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-08",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Gerunds vs Infinitives",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Gerunds vs Infinitives.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-09",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Phrasal verbs (intro)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Phrasal verbs (intro).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar-10",
+      "level": "B1",
+      "skill": "Grammar",
+      "title": "Articles: specific vs generic",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Grammar: Articles: specific vs generic.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -765,33 +3867,34 @@
       "id": "b1-vocabulary-01",
       "level": "B1",
       "skill": "Vocabulary",
-      "title": "Daily routines",
+      "title": "Work and careers",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Vocabulary: Work and careers.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Choose a morning action:",
+          "question": "Which is a fruit?",
           "options": [
-            "brush teeth",
-            "eat dinner",
-            "go to bed"
-          ],
-          "answer": 0
-        },
-        {
-          "question": "Choose an evening action:",
-          "options": [
-            "have lunch",
-            "wake up",
-            "go to bed"
+            "milk",
+            "bread",
+            "apple"
           ],
           "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -799,31 +3902,312 @@
       "id": "b1-vocabulary-02",
       "level": "B1",
       "skill": "Vocabulary",
-      "title": "At the supermarket",
+      "title": "Media",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Vocabulary: Media.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Which is a dairy product?",
+          "question": "Which is a fruit?",
           "options": [
-            "bread",
             "milk",
-            "carrot"
+            "bread",
+            "apple"
           ],
-          "answer": 1
+          "answer": 2
         },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-03",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Environment",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Environment.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
         {
           "question": "Which is a fruit?",
           "options": [
-            "apple",
-            "carrot",
-            "beef"
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-04",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Education and study",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Education and study.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-05",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Travel problems",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Travel problems.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-06",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Crime and law",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Crime and law.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-07",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Feelings and attitudes",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Feelings and attitudes.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-08",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Health and fitness",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Health and fitness.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-09",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Technology",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Technology.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary-10",
+      "level": "B1",
+      "skill": "Vocabulary",
+      "title": "Money",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Vocabulary: Money.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
           ],
           "answer": 0
         }
@@ -833,31 +4217,32 @@
       "id": "b1-reading-01",
       "level": "B1",
       "skill": "Reading",
-      "title": "Short text: Anna's day",
+      "title": "Opinion article",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Reading: Opinion article.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Anna lives in a ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "village",
-            "city",
-            "farm"
+            "a person",
+            "a place",
+            "a recipe"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "She takes the bus to ____.",
+          "question": "They travel by ____.",
           "options": [
-            "school",
-            "work",
-            "the park"
+            "car",
+            "bus",
+            "boat"
           ],
           "answer": 1
         }
@@ -867,33 +4252,314 @@
       "id": "b1-reading-02",
       "level": "B1",
       "skill": "Reading",
-      "title": "Email to a friend",
+      "title": "Human interest story",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Reading: Human interest story.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "The email is about ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "holiday plans",
-            "a job offer",
+            "a person",
+            "a place",
             "a recipe"
           ],
           "answer": 0
         },
         {
-          "question": "They will travel next ____.",
+          "question": "They travel by ____.",
           "options": [
-            "week",
-            "year",
-            "month"
+            "car",
+            "bus",
+            "boat"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-03",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Travel feature",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Travel feature.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-04",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Short biography (expanded)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Short biography (expanded).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-05",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "How\u2011to guide",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: How\u2011to guide.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-06",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Local news",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Local news.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-07",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Charity leaflet",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Charity leaflet.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-08",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Event preview",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Event preview.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-09",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Interview Q&A (adapted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Interview Q&A (adapted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-10",
+      "level": "B1",
+      "skill": "Reading",
+      "title": "Short report",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Reading: Short report.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -901,16 +4567,26 @@
       "id": "b1-listening-01",
       "level": "B1",
       "skill": "Listening",
-      "title": "Listening: at the caf\u00e9 (scripted)",
+      "title": "Radio interview (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Listening: Radio interview (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
         {
           "question": "They order ____.",
           "options": [
@@ -919,15 +4595,6 @@
             "juice"
           ],
           "answer": 1
-        },
-        {
-          "question": "They sit ____ the window.",
-          "options": [
-            "near",
-            "behind",
-            "under"
-          ],
-          "answer": 0
         }
       ]
     },
@@ -935,33 +4602,314 @@
       "id": "b1-listening-02",
       "level": "B1",
       "skill": "Listening",
-      "title": "Listening: directions (scripted)",
+      "title": "News bulletin (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Listening: News bulletin (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Turn ____ at the bank.",
+          "question": "They are in a ____.",
           "options": [
-            "left",
-            "right",
-            "around"
+            "caf\u00e9",
+            "bank",
+            "school"
           ],
           "answer": 0
         },
         {
-          "question": "The library is ____ the corner.",
+          "question": "They order ____.",
           "options": [
-            "on",
-            "at",
-            "in"
+            "tea",
+            "coffee",
+            "juice"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-03",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Lecture snippet (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Lecture snippet (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-04",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Debate (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Debate (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-05",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Guided tour (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Guided tour (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-06",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Podcast chat (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Podcast chat (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-07",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Customer service call (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Customer service call (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-08",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Health advice (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Health advice (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-09",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Technology review (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Technology review (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b1-listening-10",
+      "level": "B1",
+      "skill": "Listening",
+      "title": "Weather + travel (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Listening: Weather + travel (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -969,31 +4917,32 @@
       "id": "b1-writing-01",
       "level": "B1",
       "skill": "Writing",
-      "title": "Writing: a short note",
+      "title": "Opinion paragraph",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Writing: Opinion paragraph.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "A short note should be ____.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "very long",
-            "clear and short",
-            "full of slang"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "Include a polite ____.",
+          "question": "A polite email should include ____.",
           "options": [
             "greeting and closing",
-            "argument",
-            "menu"
+            "slang only",
+            "no punctuation"
           ],
           "answer": 0
         }
@@ -1003,33 +4952,314 @@
       "id": "b1-writing-02",
       "level": "B1",
       "skill": "Writing",
-      "title": "Writing: describing your day",
+      "title": "Formal email",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B1 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B1 Writing: Formal email.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Use ____ to show time order.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "connectors",
-            "random words",
-            "numbers only"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
           "answer": 0
         },
         {
-          "question": "Keep sentences ____.",
+          "question": "A polite email should include ____.",
           "options": [
-            "very complex",
-            "clear and simple",
-            "unfinished"
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
           ],
-          "answer": 1
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-03",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Informal email",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Informal email.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-04",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Complaint letter",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Complaint letter.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-05",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Describing a process",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Describing a process.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-06",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Advantages/Disadvantages",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Advantages/Disadvantages.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-07",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Narrative paragraph",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Narrative paragraph.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-08",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Comparison paragraph",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Comparison paragraph.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-09",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "For-and-against",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: For-and-against.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-10",
+      "level": "B1",
+      "skill": "Writing",
+      "title": "Summary",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B1 Writing: Summary.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -1037,18 +5267,19 @@
       "id": "b2-grammar-01",
       "level": "B2",
       "skill": "Grammar",
-      "title": "Present Simple vs Present Continuous",
+      "title": "Mixed Conditionals",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Grammar: Mixed Conditionals.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "He ____ to school on Mondays.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
             "go",
             "goes",
@@ -1057,11 +5288,11 @@
           "answer": 1
         },
         {
-          "question": "We ____ dinner now.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "eat",
-            "are eating",
-            "eats"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -1071,31 +5302,312 @@
       "id": "b2-grammar-02",
       "level": "B2",
       "skill": "Grammar",
-      "title": "Past Simple (regular verbs)",
+      "title": "Inversion for emphasis",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Grammar.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Grammar: Inversion for emphasis.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Yesterday I ____ football.",
+          "question": "Choose the correct form: She ____ to school on Mondays.",
           "options": [
-            "play",
-            "played",
-            "playing"
+            "go",
+            "goes",
+            "is going"
           ],
           "answer": 1
         },
         {
-          "question": "She ____ a letter last night.",
+          "question": "Pick the sentence happening now.",
           "options": [
-            "write",
-            "wrote",
-            "writes"
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-03",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Cleft sentences",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Cleft sentences.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-04",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Passive forms (advanced)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Passive forms (advanced).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-05",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Future forms nuance",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Future forms nuance.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-06",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Modal perfect",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Modal perfect.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-07",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Participle clauses",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Participle clauses.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-08",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Wish / If only",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Wish / If only.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-09",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Relative clauses (non\u2011defining)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Relative clauses (non\u2011defining).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar-10",
+      "level": "B2",
+      "skill": "Grammar",
+      "title": "Reported speech (advanced)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Grammar: Reported speech (advanced).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Choose the correct form: She ____ to school on Mondays.",
+          "options": [
+            "go",
+            "goes",
+            "is going"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pick the sentence happening now.",
+          "options": [
+            "They eat dinner.",
+            "They are eating dinner.",
+            "They eats dinner."
           ],
           "answer": 1
         }
@@ -1105,33 +5617,34 @@
       "id": "b2-vocabulary-01",
       "level": "B2",
       "skill": "Vocabulary",
-      "title": "Daily routines",
+      "title": "Global issues",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Vocabulary: Global issues.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Choose a morning action:",
+          "question": "Which is a fruit?",
           "options": [
-            "brush teeth",
-            "eat dinner",
-            "go to bed"
-          ],
-          "answer": 0
-        },
-        {
-          "question": "Choose an evening action:",
-          "options": [
-            "have lunch",
-            "wake up",
-            "go to bed"
+            "milk",
+            "bread",
+            "apple"
           ],
           "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
         }
       ]
     },
@@ -1139,31 +5652,312 @@
       "id": "b2-vocabulary-02",
       "level": "B2",
       "skill": "Vocabulary",
-      "title": "At the supermarket",
+      "title": "Science and research",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Vocabulary.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Vocabulary: Science and research.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Which is a dairy product?",
+          "question": "Which is a fruit?",
           "options": [
-            "bread",
             "milk",
-            "carrot"
+            "bread",
+            "apple"
           ],
-          "answer": 1
+          "answer": 2
         },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-03",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Art and culture",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Art and culture.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
         {
           "question": "Which is a fruit?",
           "options": [
-            "apple",
-            "carrot",
-            "beef"
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-04",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Business and finance",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Business and finance.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-05",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Society and politics",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Society and politics.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-06",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Technology trends",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Technology trends.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-07",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Sports and performance",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Sports and performance.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-08",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Health and psychology",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Health and psychology.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-09",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Education policy",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Education policy.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary-10",
+      "level": "B2",
+      "skill": "Vocabulary",
+      "title": "Media literacy",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Vocabulary: Media literacy.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "Which is a fruit?",
+          "options": [
+            "milk",
+            "bread",
+            "apple"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which is a job?",
+          "options": [
+            "teacher",
+            "running",
+            "quickly"
           ],
           "answer": 0
         }
@@ -1173,31 +5967,32 @@
       "id": "b2-reading-01",
       "level": "B2",
       "skill": "Reading",
-      "title": "Short text: Anna's day",
+      "title": "Editorial analysis",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Reading: Editorial analysis.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Anna lives in a ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "village",
-            "city",
-            "farm"
+            "a person",
+            "a place",
+            "a recipe"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "She takes the bus to ____.",
+          "question": "They travel by ____.",
           "options": [
-            "school",
-            "work",
-            "the park"
+            "car",
+            "bus",
+            "boat"
           ],
           "answer": 1
         }
@@ -1207,33 +6002,314 @@
       "id": "b2-reading-02",
       "level": "B2",
       "skill": "Reading",
-      "title": "Email to a friend",
+      "title": "Feature article",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Reading.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Reading: Feature article.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "The email is about ____.",
+          "question": "The text is mostly about ____.",
           "options": [
-            "holiday plans",
-            "a job offer",
+            "a person",
+            "a place",
             "a recipe"
           ],
           "answer": 0
         },
         {
-          "question": "They will travel next ____.",
+          "question": "They travel by ____.",
           "options": [
-            "week",
-            "year",
-            "month"
+            "car",
+            "bus",
+            "boat"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-03",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Research abstract (adapted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Research abstract (adapted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-04",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Opinion column",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Opinion column.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-05",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Case study",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Case study.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-06",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Policy brief (adapted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Policy brief (adapted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-07",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Long-form blog",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Long-form blog.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-08",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Interview deep\u2011dive (adapted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Interview deep\u2011dive (adapted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-09",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Comparative review",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Comparative review.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-10",
+      "level": "B2",
+      "skill": "Reading",
+      "title": "Argument analysis",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Reading: Argument analysis.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "The text is mostly about ____.",
+          "options": [
+            "a person",
+            "a place",
+            "a recipe"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They travel by ____.",
+          "options": [
+            "car",
+            "bus",
+            "boat"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -1241,16 +6317,26 @@
       "id": "b2-listening-01",
       "level": "B2",
       "skill": "Listening",
-      "title": "Listening: at the caf\u00e9 (scripted)",
+      "title": "Panel discussion (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Listening: Panel discussion (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
         {
           "question": "They order ____.",
           "options": [
@@ -1259,15 +6345,6 @@
             "juice"
           ],
           "answer": 1
-        },
-        {
-          "question": "They sit ____ the window.",
-          "options": [
-            "near",
-            "behind",
-            "under"
-          ],
-          "answer": 0
         }
       ]
     },
@@ -1275,33 +6352,314 @@
       "id": "b2-listening-02",
       "level": "B2",
       "skill": "Listening",
-      "title": "Listening: directions (scripted)",
+      "title": "Conference talk (scripted)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Listening.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Listening: Conference talk (scripted).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Turn ____ at the bank.",
+          "question": "They are in a ____.",
           "options": [
-            "left",
-            "right",
-            "around"
+            "caf\u00e9",
+            "bank",
+            "school"
           ],
           "answer": 0
         },
         {
-          "question": "The library is ____ the corner.",
+          "question": "They order ____.",
           "options": [
-            "on",
-            "at",
-            "in"
+            "tea",
+            "coffee",
+            "juice"
           ],
-          "answer": 2
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-03",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Debate highlights (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Debate highlights (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-04",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Podcast excerpt (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Podcast excerpt (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-05",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Radio documentary (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Radio documentary (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-06",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "News analysis (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: News analysis (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-07",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Instructional talk (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Instructional talk (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-08",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Public announcement (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Public announcement (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-09",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Interview feature (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Interview feature (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "b2-listening-10",
+      "level": "B2",
+      "skill": "Listening",
+      "title": "Round\u2011table (scripted)",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Listening: Round\u2011table (scripted).",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "They are in a ____.",
+          "options": [
+            "caf\u00e9",
+            "bank",
+            "school"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "They order ____.",
+          "options": [
+            "tea",
+            "coffee",
+            "juice"
+          ],
+          "answer": 1
         }
       ]
     },
@@ -1309,31 +6667,32 @@
       "id": "b2-writing-01",
       "level": "B2",
       "skill": "Writing",
-      "title": "Writing: a short note",
+      "title": "Discursive essay",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Writing: Discursive essay.",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "A short note should be ____.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "very long",
-            "clear and short",
-            "full of slang"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
-          "question": "Include a polite ____.",
+          "question": "A polite email should include ____.",
           "options": [
             "greeting and closing",
-            "argument",
-            "menu"
+            "slang only",
+            "no punctuation"
           ],
           "answer": 0
         }
@@ -1343,33 +6702,314 @@
       "id": "b2-writing-02",
       "level": "B2",
       "skill": "Writing",
-      "title": "Writing: describing your day",
+      "title": "Report (data\u2011led)",
+      "external_url": "",
       "explanation": [
-        "This is a placeholder lesson for B2 Writing.",
-        "Use it to demonstrate layout and interaction for screen-shared classes."
+        "Placeholder lesson for B2 Writing: Report (data\u2011led).",
+        "This content is original and demonstrates the layout only."
       ],
       "examples": [
-        "Example sentence 1.",
-        "Example sentence 2."
+        "Example 1.",
+        "Example 2."
       ],
       "quiz": [
         {
-          "question": "Use ____ to show time order.",
+          "question": "A clear paragraph usually has ____.",
           "options": [
-            "connectors",
-            "random words",
-            "numbers only"
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
           ],
           "answer": 0
         },
         {
-          "question": "Keep sentences ____.",
+          "question": "A polite email should include ____.",
           "options": [
-            "very complex",
-            "clear and simple",
-            "unfinished"
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
           ],
-          "answer": 1
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-03",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Proposal",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Proposal.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-04",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Formal letter",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Formal letter.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-05",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Opinion piece",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Opinion piece.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-06",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Review",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Review.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-07",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Synthesis summary",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Synthesis summary.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-08",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Cause\u2011effect analysis",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Cause\u2011effect analysis.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-09",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Compare\u2011contrast essay",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Compare\u2011contrast essay.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-10",
+      "level": "B2",
+      "skill": "Writing",
+      "title": "Reflective writing",
+      "external_url": "",
+      "explanation": [
+        "Placeholder lesson for B2 Writing: Reflective writing.",
+        "This content is original and demonstrates the layout only."
+      ],
+      "examples": [
+        "Example 1.",
+        "Example 2."
+      ],
+      "quiz": [
+        {
+          "question": "A clear paragraph usually has ____.",
+          "options": [
+            "one main idea",
+            "many random ideas",
+            "no topic sentence"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "A polite email should include ____.",
+          "options": [
+            "greeting and closing",
+            "slang only",
+            "no punctuation"
+          ],
+          "answer": 0
         }
       ]
     }

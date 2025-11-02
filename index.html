@@ -17,12 +17,16 @@
 </nav>
   <div class="container">
     <div class="card" style="margin-bottom:1rem;">
-      <p>Light, clean lessons for screen-sharing with remote students. Use the cards below to jump into examples for each level and skill.</p>
-      <a class="button secondary" href="level-test.html">Try the Level Test</a>
-      <a class="button ghost" href="homework.html">Homework portal</a>
-      <a class="button" href="teacher.html">Teacher dashboard</a>
+      <p>Light, clean lessons for screen‑sharing with remote students. Filter below or jump in.</p>
+      <div class="controls">
+        <select id="level-filter"><option value="">All levels</option></select>
+        <select id="skill-filter"><option value="">All skills</option></select>
+        <input id="q" type="text" placeholder="Search lessons..." />
+        <a class="button secondary" href="level-test.html">Level Test</a>
+        <a class="button ghost" href="homework.html">Homework portal</a>
+        <a class="button" href="teacher.html">Teacher dashboard</a>
+      </div>
     </div>
-    <h2 class="section-title">Lessons</h2>
     <div id="lessons-grid" class="grid"></div>
   </div>
   <footer>© 2025 Tania's English Class</footer>
