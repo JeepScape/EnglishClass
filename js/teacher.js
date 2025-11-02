@@ -12,8 +12,12 @@ let assignments = loadLocal(ASSIGN_KEY, {});
 let results = loadLocal(RESULTS_KEY, {});
 
 (async function init(){
-  const data = await fetchJSON('data/codes.json');
-  codes = data.codes;
+  try{
+    const data = await fetchJSON('data/codes.json');
+    codes = data.codes || [];
+  }catch(e){
+    codes = [];
+  }
   renderTable();
 })();
 

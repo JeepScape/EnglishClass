@@ -30,16 +30,16 @@
   <script src="js/quiz.js"></script>
   <script>
     const ltQuiz = [
-      {question:'He ____ to work every day.', options:['go','goes','is going'], answer:1},
-      {question:'I ____ dinner now.', options:['eat','am eating','eats'], answer:1},
-      {question:'Yesterday they ____ a film.', options:['watch','watched','watching'], answer:1},
-      {question:'Choose a fruit:', options:['milk','apple','bread'], answer:1},
-      {question:'We will travel next ____.', options:['week','year','century'], answer:0},
-      {question:'Turn ____ at the bank.', options:['left','over','under'], answer:0},
-      {question:'The café is ____ the corner.', options:['on','at','in'], answer:2},
-      {question:'A short note should be ____.', options:['long','unclear','concise'], answer:2},
-      {question:'Use ____ to show time order.', options:['connectors','random words','nothing'], answer:0},
-      {question:'She ____ to school on Mondays.', options:['go','goes','is going'], answer:1},
+      {prompt:'He ____ to work every day.', options:['go','goes','is going'], answer_index:1},
+      {prompt:'I ____ dinner now.', options:['eat','am eating','eats'], answer_index:1},
+      {prompt:'Yesterday they ____ a film.', options:['watch','watched','watching'], answer_index:1},
+      {prompt:'Choose a fruit:', options:['milk','apple','bread'], answer_index:1},
+      {prompt:'We will travel next ____.', options:['week','year','century'], answer_index:0},
+      {prompt:'Turn ____ at the bank.', options:['left','over','under'], answer_index:0},
+      {prompt:'The café is ____ the corner.', options:['on','at','in'], answer_index:2},
+      {prompt:'A short note should be ____.', options:['long','unclear','concise'], answer_index:2},
+      {prompt:'Use ____ to show time order.', options:['connectors','random words','nothing'], answer_index:0},
+      {prompt:'She ____ to school on Mondays.', options:['go','goes','is going'], answer_index:1},
     ];
     const quizC = document.getElementById('lt-quiz');
     renderQuiz(quizC, ltQuiz);

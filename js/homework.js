@@ -5,9 +5,11 @@ let validCodes = new Set();
 let activeCode = null;
 
 (async function init(){
-  const data = await fetchJSON('data/codes.json');
-  data.codes.forEach(c => validCodes.add(c));
-  document.getElementById('codes-count').textContent = data.codes.length;
+  try{
+    const data = await fetchJSON('data/codes.json');
+    (data.codes||[]).forEach(c => validCodes.add(c));
+    document.getElementById('codes-count').textContent = (data.codes||[]).length;
+  }catch(e){ document.getElementById('codes-count').textContent = '0'; }
 })();
 
 document.getElementById('enter-code').addEventListener('click', () => {
@@ -25,8 +27,8 @@ document.getElementById('enter-code').addEventListener('click', () => {
 });
 
 const hwQuiz = [
-  { question: 'Choose the correct sentence:', options:['He go to school.','He goes to school.','He going to school.'], answer: 1 },
-  { question: 'Complete: I ____ dinner now.', options:['eat','am eating','eats'], answer: 1 }
+  { prompt: 'Choose the correct sentence:', options:['He go to school.','He goes to school.','He going to school.'], answer_index: 1 },
+  { prompt: 'Complete: I ____ dinner now.', options:['eat','am eating','eats'], answer_index: 1 }
 ];
 const quizC = document.getElementById('hw-quiz');
 renderQuiz(quizC, hwQuiz);

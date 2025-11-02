@@ -1,8 +1,12 @@
 
-async function fetchJSON(path){
-  const res = await fetch(path);
-  if(!res.ok) throw new Error('Failed to load '+path);
-  return await res.json();
+async function fetchJSONPreferScraped(){
+  async function tryFetch(path){
+    const r = await fetch(path);
+    if(!r.ok) throw new Error('not ok');
+    return r.json();
+  }
+  try{ return await tryFetch('data/lessons.scraped.json'); }
+  catch{ return await tryFetch('data/lessons.json'); }
 }
 function qs(name){
   const url = new URL(window.location.href);
@@ -15,7 +19,7 @@ function lessonCard(l){
   return `<li><a href="${lessonLink(l.id)}">${l.title}</a></li>`;
 }
 async function renderHome(){
-  const data = await fetch('data/lessons.json').then(r=>r.json());
+  const data = await fetchJSONPreferScraped();
   const levels = data.levels;
   const skills = data.skills;
   const lessons = data.lessons;
@@ -58,21 +62,26 @@ async function renderHome(){
 
 async function renderLesson(){
   const id = qs('id');
-  const data = await fetch('data/lessons.json').then(r=>r.json());
+  const data = await fetchJSONPreferScraped();
   const lesson = data.lessons.find(l => l.id === id) || data.lessons[0];
   document.getElementById('lesson-title').textContent = lesson.title;
   document.getElementById('lesson-meta').textContent = `${lesson.level} · ${lesson.skill}`;
 
-  const ext = lesson.external_url ? `<p class="small">Reference link: <a href="${lesson.external_url}" target="_blank" rel="noopener">Open external resource</a></p>` : '';
-  const expl = document.getElementById('explanation');
-  expl.innerHTML = lesson.explanation.map(p => `<p>${p}</p>`).join('') + ext +
-    (lesson.examples?.length ? `<div class="card"><strong>Examples</strong><ul class="list">${lesson.examples.map(e=>`<li>${e}</li>`).join('')}</ul></div>` : '');
+  const content = document.getElementById('content');
+  const srcLink = lesson.source_url ? `<p class="small">Source: <a href="${lesson.source_url}" target="_blank" rel="noopener">test-english.com</a></p>` : '';
+  const body = lesson.content_html || (lesson.explanation ? lesson.explanation.map(p=>`<p>${p}</p>`).join('') : '');
+  content.innerHTML = body + srcLink;
+
+  const mediaWrap = document.getElementById('media');
+  const yt = (lesson.media && lesson.media.youtube) ? lesson.media.youtube : [];
+  if(yt.length){
+    mediaWrap.innerHTML = yt.map(id => `<div class="card" style="margin-bottom:1rem;"><iframe allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen src="https://www.youtube.com/embed/${id}"></iframe></div>`).join('');
+  }
 
   const qc = document.getElementById('quiz');
-  renderQuiz(qc, lesson.quiz || []);
-  const scoreBox = document.getElementById('score');
+  renderQuiz(qc, lesson.questions || lesson.quiz || []);
   document.getElementById('submit-quiz').addEventListener('click', () => {
     const s = scoreQuiz(qc);
-    scoreBox.textContent = `Score: ${s.correct} / ${s.total}`;
+    document.getElementById('score').textContent = `Score: ${s.correct} / ${s.total}`;
   });
 }
